@@ -1,7 +1,7 @@
 
   # NaviSmart Mobile App UI
 
-  This is a code bundle for NaviSmart Mobile App UI. The original project is available at https://www.figma.com/design/RjbMz0SDO364ijP4x3Zek5/NaviSmart-Mobile-App-UI.
+  https://rise-untie-10469373.figma.site
 
   ## Running the code
 
